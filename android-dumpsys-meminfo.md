@@ -88,8 +88,7 @@ dumpsys meminfo 可以带参数 pid 或者 process name , dump 一个进程的 m
              MEMORY_USED:        0
       PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
 
-
-
+在Linux 下
 
 
 
